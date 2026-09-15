@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-	cout << "Estrutura de Dados - Fatec (2026/2_)" << endl;
+	cout << "Estrutura de Dados - Fatec (2026/2)" << endl;
 
 	
 	cout << "Tipos Numericos\n";
